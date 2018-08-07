@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #212529;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+#sec-services i{
+	font-size: 35px;
+}
+
+#sec-tercera i{
+	font-size: 35px;
+	padding: 43px;
+}
+
+#sec-intro p{
+	font-size: 20px;
+	color: #848892;}
+	
+#sec-intro .fondo{
+	background-image: url;
+		background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#sec-intro .fondo img{
+	max-width: 400px;
+	
+}
+
+#sec-intro h1::after{
+	
+	content:"";
+	width: 85px;
+	height: 10px;
+	background-color: #00d3f3;
+	display: block;
+	border-radius: 0px 0px 4px 4px;
+}
+
+
+
+#sec-services{
+	text-align: center;
+}
+
+#sec-final{
+	text-align: center;
+}
+
+
+
+#
+
+
+
